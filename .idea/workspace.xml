@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BspLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../globomantics-cf-backend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9db58fca-beb6-4f59-bb48-51c24b475c0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1foslvV6AWFjlUkOaja5Pui1BVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FibonaciSeries" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.funcalgo.learn.FibonaciSeries" />
+      <module name="functional-algo-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.funcalgo.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibonaciSeries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="functional-algo-scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="functional-algo-scala [file:/Users/imransarwar/git/functional-algo-scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="functional-algo-scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3193791866636" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1632837813" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Capstone/w1/observatory" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/ParallelProgram/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/ParallelProgram/w1/scalashop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/ParallelProgram/w2/reductions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/ParallelProgram/w3/kmeans" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/ParallelProgram/w4/barneshut" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Design/w2/streams" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Design/w3/codecs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Design/w4/calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/W3/2/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/W3/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/W4/2/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/W4/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/funset-2/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/Scala-Principles-W2/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/sparkscala/w1/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/sparkscala/w1/wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/sparkscala/w2/stackoverflow" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/Coursera-Scala/sparkscala/w4/timeusage" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/fp-principles-scala/w1/recfun" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/fp-scala/fp-principles-scala/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/fp-scala/fp-principles-scala/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/fp-scala/fp-principles-scala/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Imran/Development/workspace/scala-principles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Unit-Testing-In-Scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-essentials" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cakez" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../globomantics-cf-backend/modules/module_3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../globomantics-cf-backend/modules/module_4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../globomantics-cf-backend/modules/module_5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-cake-pattern" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-essentials" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../udemy-spark-streaming" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db58fca-beb6-4f59-bb48-51c24b475c0a" name="Default Changelist" comment="" />
+      <created>1596895933258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596895933258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1234" height="175" key="GridCell.Tab.0.bottom" timestamp="1596896991808">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1234" height="175" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1596896991808" />
+    <state width="1234" height="175" key="GridCell.Tab.0.center" timestamp="1596896991797">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1234" height="175" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1596896991797" />
+    <state width="1234" height="175" key="GridCell.Tab.0.left" timestamp="1596896991796">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1234" height="175" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1596896991796" />
+    <state width="1234" height="175" key="GridCell.Tab.0.right" timestamp="1596896991807">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1234" height="175" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1596896991807" />
+  </component>
+</project>
