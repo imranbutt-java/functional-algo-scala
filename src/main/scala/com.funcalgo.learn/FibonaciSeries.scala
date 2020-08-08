@@ -13,7 +13,7 @@ object FibonaciSeries extends App {
     else -1
   }
 
-  println("# Fibnocci Num at position")
-  println("0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...")
+  println("# Fibnocci Series")
+  println(fibonaciSeries.take(10).toList)
   println(fibonaciSeriesNumAt(4))
 }
